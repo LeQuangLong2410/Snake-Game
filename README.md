@@ -1,4 +1,4 @@
-# 🐍 Snake Game - Rắn Săn Mồi
+# 🐍 Snake Game
 
 A classic Snake Game built with pure HTML5, CSS3, and JavaScript. Control the snake to eat food, grow longer, and achieve the highest score possible without hitting the walls or yourself!
 
